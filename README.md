@@ -14,13 +14,13 @@ Go client for accessing and using Microcks API
 To get the latest version, use go1.21+ and fetch using the `go get` command. For example:
 
 ```
-go get github.com/microcks/microcks-go-client@latest
+go get microcks.io/go-client@latest
 ```
 
 To get a specific version, use go1.21+ and fetch the desired version using the `go get` command. For example:
 
 ```
-go get github.com/microcks/microcks-go-client@v1.18
+go get microcks.io/go-client@v1.18
 ```
 
 
@@ -34,7 +34,7 @@ import (
 	"fmt"
 	"log"
 
-	client "github.com/microcks/microcks-go-client"
+	client "microcks.io/go-client"
 )
 
 const server = "http://localhost:8080/api"

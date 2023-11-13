@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	client "github.com/microcks/microcks-go-client"
+	client "microcks.io/go-client"
 )
 
 const server = "http://localhost:8080/api"

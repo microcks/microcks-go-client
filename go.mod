@@ -1,4 +1,4 @@
-module github.com/microcks/microcks-go-client
+module microcks.io/go-client
 
 go 1.21.3
 
