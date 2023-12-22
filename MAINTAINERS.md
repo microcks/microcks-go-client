@@ -5,12 +5,13 @@ If you're interested in contributing, and becoming a maintainer, see [CONTRIBUTI
 
 ## Current Maintainers
 
-| Maintainer         | GitHub ID                                                 | Email                   |
-| ------------------ | --------------------------------------------------------- | ----------------------- |
-| Laurent Broudoux   | [lbroudoux](https://github.com/lbroudoux)                 | laurent@microcks.io     |
-| Yacine Kheddache   | [yada](https://github.com/yada)                           | yacine@microcks.io      |
+| Maintainer       | GitHub ID                                     | Email                  |
+| ---------------- | --------------------------------------------- | ---------------------- |
+| Laurent Broudoux | [lbroudoux](https://github.com/lbroudoux)     | laurent@microcks.io    |
+| Yacine Kheddache | [yada](https://github.com/yada)               | yacine@microcks.io     |
+| Julien Breux     | [JulienBreux](https://github.com/JulienBreux) | julienbreux@google.com |
 
 ## Emeritus
 
-| Maintainer         | GitHub ID                                                 | Email                   |
-| ------------------ | --------------------------------------------------------- | ----------------------- |
+| Maintainer | GitHub ID | Email |
+| ---------- | --------- | ----- |
