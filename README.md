@@ -11,12 +11,16 @@ Go client for accessing and using Microcks API
 
 ## Versioning
 
-Latest released version is `0.1.0`. It has been produced from Microcks `1.8.0` OpenAPI definition and can be used with all the above `1.x` versions.
+Latest released version is `0.2.0`. Please check the table bealow to see what version of Microcks API it matches.
 
+| Go Client | Microcks Version |
+| --------- | ---------------- |
+| `0.2.0` | `1.10.0` and above |
+| `0.1.0` | `1.8.0` and above |
 
 ## Installation
 
-To get the latest version, use go1.21+ and fetch using the `go get` command. For example:
+To get the latest version, use go1.22 and fetch using the `go get` command. For example:
 
 ```
 go get microcks.io/go-client@latest
@@ -25,7 +29,7 @@ go get microcks.io/go-client@latest
 To get a specific version, use go1.21+ and fetch the desired version using the `go get` command. For example:
 
 ```
-go get microcks.io/go-client@v0.1.0
+go get microcks.io/go-client@v0.2.0
 ```
 
 ## Quickstart
