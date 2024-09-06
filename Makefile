@@ -1,7 +1,7 @@
-API_FILE := api/microcks-openapi-v1.8.yaml
+API_FILE := api/microcks-openapi-v1.10.yaml
 
 generate-install: ## [generate] Install
-	go install github.com/deepmap/oapi-codegen/v2/cmd/oapi-codegen@latest
+	go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest
 
 generate-client: ## [generate] Client
 	oapi-codegen -config generate.yaml ${API_FILE}
