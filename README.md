@@ -7,6 +7,7 @@ Go client for accessing and using Microcks API
 [![Project Chat](https://img.shields.io/badge/discord-microcks-pink.svg?color=7289da&style=for-the-badge&logo=discord)](https://microcks.io/discord-invite/)
 ![Go version](https://img.shields.io/github/go-mod/go-version/microcks/microcks-go-client?style=for-the-badge&logo=go)
 ![GitHub release](https://img.shields.io/github/downloads-pre/microcks/microcks-go-client/latest/total?style=for-the-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmicrocks%2Fmicrocks-go-client.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmicrocks%2Fmicrocks-go-client?ref=badge_shield)
 
 
 ## Versioning
@@ -69,3 +70,6 @@ func main() {
 ### License
 
 The Apache License (apache) - see [`LICENSE.md`](https://github.com/microcks/microcks-go-client/blob/main/LICENSE.md) for more details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmicrocks%2Fmicrocks-go-client.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmicrocks%2Fmicrocks-go-client?ref=badge_large)
