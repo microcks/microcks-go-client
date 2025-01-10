@@ -53,10 +53,10 @@ To get the latest version, use go1.22 and fetch using the `go get` command. For 
 go get microcks.io/go-client@latest
 ```
 
-To get a specific version, use go1.21+ and fetch the desired version using the `go get` command. For example:
+To get a specific version, use go1.22 and fetch the desired version using the `go get` command. For example:
 
 ```
-go get microcks.io/go-client@v0.3.0
+go get microcks.io/go-client@v0.3.1
 ```
 
 ## Quickstart
