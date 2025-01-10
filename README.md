@@ -12,7 +12,7 @@ A Go Client or SDK that allows you to interact with the Microcks API.
 
 ## Build Status
 
-Latest released version is `0.3.0`.
+Latest released version is `0.3.1`.
 
 Current development version is `0.4.0`.
 
@@ -37,11 +37,11 @@ To get involved with our community, please make sure you are familiar with the p
 
 ## Versions
 
-Latest released version is `0.3.0`. Please check the table bealow to see what version of Microcks API it matches.
+Latest released version is `0.3.1`. Please check the table bealow to see what version of Microcks API it matches.
 
 | Go Client | Microcks Version |
 | --------- | ---------------- |
-| `0.3.0`   | `1.10.0` and above |
+| `0.3.x`   | `1.10.0` and above |
 | `0.2.0`   | `1.10.0` and above |
 | `0.1.0`   | `1.8.0` and above |
 
