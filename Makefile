@@ -1,4 +1,4 @@
-API_FILE := api/microcks-openapi-v1.11.yaml
+API_FILE := api/microcks-openapi-v1.13.yaml
 
 generate-install: ## [generate] Install
 	go install github.com/oapi-codegen/oapi-codegen/v2/cmd/oapi-codegen@latest
