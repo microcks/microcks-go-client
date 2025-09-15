@@ -1,6 +1,6 @@
 module microcks.io/go-client
 
-go 1.22.0
+go 1.23.0
 
 require github.com/oapi-codegen/runtime v1.1.2
 

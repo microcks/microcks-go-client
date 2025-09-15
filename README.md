@@ -47,13 +47,13 @@ Latest released version is `0.3.1`. Please check the table bealow to see what ve
 
 ## Installation
 
-To get the latest version, use go1.22 and fetch using the `go get` command. For example:
+To get the latest version, use go1.23 and fetch using the `go get` command. For example:
 
 ```
 go get microcks.io/go-client@latest
 ```
 
-To get a specific version, use go1.22 and fetch the desired version using the `go get` command. For example:
+To get a specific version, use go1.23 and fetch the desired version using the `go get` command. For example:
 
 ```
 go get microcks.io/go-client@v0.3.1
