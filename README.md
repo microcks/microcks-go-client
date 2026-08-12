@@ -12,9 +12,9 @@ A Go Client or SDK that allows you to interact with the Microcks API.
 
 ## Build Status
 
-Latest released version is `0.4.0`.
+Latest released version is `0.5.0`.
 
-Current development version is `0.5.0`.
+Current development version is `0.5.1`.
 
 #### Fossa license and security scans
 
@@ -37,7 +37,7 @@ To get involved with our community, please make sure you are familiar with the p
 
 ## Versions
 
-Latest released version is `0.4.0`. Please check the table bealow to see what version of Microcks API it matches.
+Latest released version is `0.5.0`. Please check the table bealow to see what version of Microcks API it matches.
 
 | Go Client | Microcks Version |
 | --------- | ---------------- |
@@ -49,16 +49,16 @@ Latest released version is `0.4.0`. Please check the table bealow to see what ve
 
 ## Installation
 
-To get the latest version, use go1.23 and fetch using the `go get` command. For example:
+To get the latest version, use go1.24 and fetch using the `go get` command. For example:
 
 ```
 go get microcks.io/go-client@latest
 ```
 
-To get a specific version, use go1.23 and fetch the desired version using the `go get` command. For example:
+To get a specific version, use go1.24 and fetch the desired version using the `go get` command. For example:
 
 ```
-go get microcks.io/go-client@v0.4.0
+go get microcks.io/go-client@v0.5.0
 ```
 
 ## Quickstart
