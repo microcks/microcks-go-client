@@ -14,7 +14,7 @@ A Go Client or SDK that allows you to interact with the Microcks API.
 
 Latest released version is `0.4.0`.
 
-Current development version is `0.4.1`.
+Current development version is `0.5.0`.
 
 #### Fossa license and security scans
 
@@ -41,6 +41,7 @@ Latest released version is `0.4.0`. Please check the table bealow to see what ve
 
 | Go Client | Microcks Version |
 | --------- | ---------------- |
+| `0.5.x`   | `1.10.0` and above, supports `/webhooks` from `1.14.0` |
 | `0.4.x`   | `1.10.0` and above |
 | `0.3.x`   | `1.10.0` and above |
 | `0.2.0`   | `1.10.0` and above |
